@@ -1,0 +1,38 @@
+Apple scab: Use fungicides like Captan or Mancozeb during the early season to prevent fungal spores from infecting the tree. It’s important to apply before and after rain to protect new leaves.  
+Apple black rot: Apply Captan or Copper-based fungicides to prevent infections. Prune infected limbs and remove fallen fruit to limit disease spread.  
+Apple cedar apple rust: Prevent with Myclobutanil or Mancozeb, especially during spring when spores are released. Removing nearby cedar trees can also help reduce infections.  
+Apple healthy: No treatment required.  
+Blueberry healthy: No treatment required.  
+Cherry (including sour) powdery mildew: Apply Sulfur or Potassium bicarbonate early in the season to manage the fungal infection. Ensure good air circulation around the plants to prevent mildew buildup.  
+Cherry (including sour) healthy: No treatment required.  
+Corn (maize) cercospora leaf spot/gray leaf spot: Use Strobilurin fungicides like Azoxystrobin during early symptoms to reduce leaf damage and prevent yield loss.  
+Corn (maize) common rust: Control rust with Mancozeb or Propiconazole, applied when rust spots first appear on leaves.  
+Corn (maize) northern leaf blight: Apply Triazole fungicides like Propiconazole when disease is first noticed to slow the spread of the blight.  
+Corn (maize) healthy: No treatment required.  
+Grape black rot: Use Captan or Myclobutanil as a preventive fungicide. Prune vines and remove diseased fruit to limit the spread of the fungus.  
+Grape esca (black measles): There’s no cure, but Sodium arsenite (restricted use) can be applied to affected trunks. Alternatively, trunk surgery to remove infected wood may help limit disease progression.  
+Grape leaf blight (Isariopsis leaf spot): Apply Mancozeb or Copper-based fungicides to manage leaf blight. Ensure vines have good air circulation to reduce moisture buildup.  
+Grape healthy: No treatment required.  
+Orange Huanglongbing (citrus greening): There is no cure. Focus on controlling the vector (Asian citrus psyllid) with insecticides and removing infected trees to protect the rest of the orchard.  
+Peach bacterial spot: Use Copper-based fungicides or Oxytetracycline to manage bacterial infections, especially in wet conditions.  
+Peach healthy: No treatment required.  
+Pepper bell bacterial spot: Use Copper-based fungicides and Streptomycin to prevent and manage the bacterial disease. Remove infected plants to limit spread.  
+Pepper bell healthy: No treatment required.  
+Potato early blight: Apply Chlorothalonil or Mancozeb at the first sign of symptoms to prevent defoliation and yield loss.  
+Potato late blight: Use Copper-based fungicides or Mancozeb to control the spread of late blight. Early treatment is key to prevent significant damage.  
+Potato healthy: No treatment required.  
+Raspberry healthy: No treatment required.  
+Soybean healthy: No treatment required.  
+Squash powdery mildew: Use Sulfur or Potassium bicarbonate to manage powdery mildew, particularly in humid conditions. Improve air circulation around plants.  
+Strawberry leaf scorch: Captan or Copper-based fungicides can help manage this fungal disease. Remove affected leaves to limit spread.  
+Strawberry healthy: No treatment required.  
+Tomato bacterial spot: Use Copper-based fungicides or Streptomycin to manage bacterial infections. Remove infected plants to avoid spread.  
+Tomato early blight: Apply Mancozeb or Chlorothalonil early in the growing season to prevent severe defoliation.  
+Tomato late blight: Use Copper-based fungicides or Mancozeb to protect plants during wet conditions when late blight is likely to spread.  
+Tomato leaf mold: Control with Chlorothalonil or Copper-based fungicides, especially in greenhouses where humidity is high.  
+Tomato septoria leaf spot: Mancozeb or Chlorothalonil should be applied at the first signs of leaf spots to prevent defoliation.  
+Tomato spider mites (two-spotted spider mite): Use Abamectin or Horticultural oil to control mite populations, focusing on the underside of leaves.  
+Tomato target spot: Apply Chlorothalonil or Mancozeb when spots first appear to manage the disease.  
+Tomato yellow leaf curl virus: There is no cure, but controlling whitefly populations (the vectors) is essential to prevent spread.  
+Tomato mosaic virus: No cure, but planting virus-free seeds and avoiding mechanical transmission can help limit the disease.  
+Tomato healthy: No treatment required.

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.Main_Activity"
+    tools:ignore="ExtraText"
+    android:id="@+id/rootLayout">
+
+    <!-- ImageView to display selected or captured photo -->
+    <ImageView
+        android:id="@+id/mPhotoImageView"
+        android:layout_width="350dp"
+        android:layout_height="400dp"
+        android:layout_marginTop="16dp"
+        android:contentDescription="@string/descriptionImage"
+        android:src="@drawable/scan_leaf"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Button to open camera and take a picture -->
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/mCameraButton"
+        style="@android:style/Widget.Button"
+        android:layout_width="155dp"
+        android:layout_height="64dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/green_background"
+        android:drawableTop="@drawable/ic_camera_open"
+        android:text="Take a picture"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mPhotoImageView" />
+
+    <!-- Button to select a picture from the gallery -->
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/mGalleryButton"
+        style="@android:style/Widget.Button"
+        android:layout_width="155dp"
+        android:layout_height="64dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/green_background"
+        android:drawableTop="@drawable/ic_gallery_open"
+        android:text="Select from Gallery"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.571"
+        app:layout_constraintStart_toEndOf="@+id/mCameraButton"
+        app:layout_constraintTop_toBottomOf="@+id/mPhotoImageView" />
+
+    <!-- Button to detect plant disease -->
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/mDetectButton"
+        style="@android:style/Widget.Button"
+        android:layout_width="155dp"
+        android:layout_height="64dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="128dp"
+        android:background="@drawable/green_background"
+        android:drawableTop="@drawable/search"
+        android:text="Detect"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mPhotoImageView" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

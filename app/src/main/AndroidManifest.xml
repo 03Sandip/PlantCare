@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <!-- Optional Camera Feature -->
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" /> <!-- Permissions -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        tools:node="remove" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PlantCare"
+        tools:targetApi="31">
+        <activity
+            android:name=".Activity.Croprecomandation"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Soilfertilizer"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.StoreActivity"
+            android:exported="false" /> <!-- Main Activity -->
+        <activity
+            android:name=".Activity.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity> <!-- MainPage Activity -->
+        <activity
+            android:name=".Activity.MainPage"
+            android:exported="false" /> <!-- CameraPage Activity -->
+        <activity
+            android:name=".Activity.CameraPage"
+            android:exported="false" /> <!-- Calculator Activity -->
+        <!-- Main_Activity (Unclear if this is a duplicate, ensure it’s necessary) -->
+        <activity
+            android:name=".Activity.Main_Activity"
+            android:exported="false" />
+    </application>
+
+</manifest>

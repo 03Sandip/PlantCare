@@ -1,0 +1,177 @@
+<resources>
+    <string name="app_name">PlantCare</string>
+    <string name="logo">Logo</string>
+
+    <!-- ActionBar Title text-->
+    <string name="Fill_Details">Fill Details</string>
+    <string name="Registration_Successful">Registration Successful!</string>
+    <string name="Find_Device">Find Device</string>
+    <string name="Found_Device">Device Found!</string>
+    <string name="SoilTest_Result">Soil Test Result</string>
+    <string name="Fertilizer_Recommendations">Fertilizer Recommendations</string>
+    <string name="Login_Register">Login/Register</string>
+    <string name="Select_Crop">Select Crop</string>
+    <string name="Profile">Profile</string>
+    <string name="PlotSize">Plot Size</string>
+
+    <!--MainActivity-->
+    <string name="Start">Start</string>
+    <string name="Welcome">Welcome</string>
+
+    <!--LoginActivity-->
+    <string name="Mobile_Number">Mobile Number</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="GotoSignUp">Not a member? Sign up now!</string>
+
+    <!--RegisterActivity-->
+    <string name="Name">Name</string>
+    <string name="Confirm_Password">Confirm Password</string>
+    <string name="SignUp">Sign Up</string>
+
+    <!--RegSuccessfulActivity-->
+    <string name="Welcome_To">Thank you..!</string>
+    <string name="Successfully_Registered">You have successfully registered with "Farmss"!</string>
+    <string name="AddPlotSize">Add Plot Size</string>
+
+    <!--AddPlotSizeActivity-->
+    <string name="How_much_area_for_soil_testing">How much area for soil testing?</string>
+    <string name="Guntha">Guntha</string>
+    <string name="guntha">Guntha</string>
+    <string name="Acre">Acre</string>
+    <string name="acre">Acre</string>
+
+    <!--FindDeviceActivity-->
+    <string name="Finding_Machine">Finding device....</string>
+
+    <!--FoundDeviceActivity-->
+    <string name="SoilTest_Results">Show Soil Test Results</string>
+
+    <!--ResultActivity-->
+    <string name="PH">Soil pH</string>
+    <string name="N">Nitrogen (N) in soil</string>
+    <string name="KgPerHec">Kg/Ha</string>
+    <string name="P">Phosphorus (P) in soil</string>
+    <string name="K">Potassium (K) in soil</string>
+
+    <!--SelectCropActivity-->
+    <string name="Cabbage">Cabbage</string>
+    <string name="Onion">Onion</string>
+    <string name="Tomato">Tomato</string>
+    <string name="Chilli">Chilli</string>
+    <string name="Grapes">Grapes</string>
+    <string name="Other_Crops">Other Crops</string>
+
+    <!--RecommendationActivity-->
+    <string name="Use_FurtilizerRecommendation">Use the following fertilizers</string>
+    <string name="Recommendation_for_N">For N improvement: Urea</string>
+    <string name="Recommendation_for_P">For P improvement: Potash</string>
+    <string name="Recommendation_for_K">For K improvement: Super Phosphate</string>
+    <string name="Kg">Kg</string>
+    <string name="New_SoilTest">New Soil Test</string>
+
+    <!--Bluetooth Connection-->
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connecting">Connecting...</string>
+    <string name="status_connected">Connected to %1$s</string>
+    <string name="action_connect">Connect</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="action_quit">Quit</string>
+    <string name="no_bluetooth">Bluetooth not available on this device</string>
+    <string name="paired_devices">Select paired device</string>
+    <string name="terminal_message_template">%1$s > %2$s\n</string>
+
+    <!-- Back Button PopUp -->
+    <string name="leave_application">Leave application?</string>
+    <string name="Leave_application_msg">Do you want to close the application?</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+
+    <!--Toast Messages-->
+    <string name="EnterMobPass">Please enter mobile number and password!</string>
+    <string name="LoginSuccess">Logged in successfully!</string>
+    <string name="WrongMobPass">Mobile and password do not match!</string>
+    <string name="EnterValidMob">Please enter a valid mobile number!</string>
+    <string name="EnterValidPass">Please enter a valid password!</string>
+
+    <!--DialogBox messages-->
+    <string name="Alert">Alert!</string>
+    <string name="MobAlreadyReg">Mobile number is already registered!</string>
+    <string name="Ok">OK</string>
+
+    <!--RegisterUserForm-->
+    <string name="EnterName">Please enter your name!</string>
+    <string name="Alphabetic_Only">Enter alphabetic characters only!</string>
+    <string name="EnterMobNo">Enter mobile number!</string>
+    <string name="EnterPass">Enter password!</string>
+    <string name="MatchPass">Passwords do not match!</string>
+    <string name="RegSuccess">Successfully registered!</string>
+
+    <!--Menu-->
+    <string name="Edit_Profile">Edit Profile</string>
+    <string name="Logout">Logout</string>
+
+    <!--Edit Profile-->
+    <string name="hint_Name">Name</string>
+    <string name="hint_State">State</string>
+    <string name="hint_District">District</string>
+    <string name="hint_Tehsil">Tehsil</string>
+    <string name="hint_Village">Village</string>
+    <string name="hint_Pincode">Pincode</string>
+    <string name="hint_Mobile">Mobile</string>
+    <string name="Update_Profile_btn">Update Profile</string>
+
+    <string-array name="district_name">
+        <item>Select District</item>
+        <item>Ahmednagar</item>
+        <item>Akola</item>
+        <item>Amravati</item>
+        <item>Aurangabad</item>
+        <item>Beed</item>
+        <item>Bhandara</item>
+        <item>Buldhana</item>
+        <item>Chandrapur</item>
+        <item>Dhule</item>
+        <item>Gadchiroli</item>
+        <item>Gondia</item>
+        <item>Hingoli</item>
+        <item>Jalgaon</item>
+        <item>Jalna</item>
+        <item>Kolhapur</item>
+        <item>Latur</item>
+        <item>Mumbai City</item>
+        <item>Mumbai Suburban</item>
+        <item>Nagpur</item>
+        <item>Nanded</item>
+        <item>Nandurbar</item>
+        <item>Nashik</item>
+        <item>Osmanabad</item>
+        <item>Parbhani</item>
+        <item>Pune</item>
+        <item>Raigad</item>
+        <item>Ratnagiri</item>
+        <item>Sangli</item>
+        <item>Satara</item>
+        <item>Sindhudurg</item>
+        <item>Solapur</item>
+        <item>Thane</item>
+        <item>Wardha</item>
+        <item>Washim</item>
+        <item>Yavatmal</item>
+        <item>Palghar</item>
+    </string-array>
+
+    <string name="Enter_only_Alphabets">Enter alphabets only</string>
+    <string name="Enter_Valid_Pincode">Enter a valid pincode</string>
+    <string name="Enter_Village">Enter village name</string>
+    <string name="Try_again">Try again..!</string>
+    <string name="Select_District">Select District</string>
+    <string name="Select_Tehsil">Select Tehsil</string>
+
+    <!--New file-->
+    <string name="buttonSelectPhoto">Select Photo</string>
+    <string name="buttonTakePhoto">Start Camera</string>
+    <string name="buttonDiagnose">Detect</string>
+    <string name="defaultImage">Default image set now...</string>
+    <string name="descriptionImage">View for displaying image</string>
+</resources>
